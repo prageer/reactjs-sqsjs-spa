@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {
-  App
+  App 
 } from './containers';
 
 const rootElement = document.getElementById('root');
